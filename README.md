@@ -1,3 +1,4 @@
+![logo](https://github.com/Ishayan06/Ishayan06/blob/main/github%20bg.jpg)
 <h1 align="center">Hi 👋, I'm ISHAYAN KUNDU</h1>
 <h3 align="center">A passionate frontend developer from India and eager to learn backend</h3>
 
