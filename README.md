@@ -1,4 +1,4 @@
-![logo](https://github.com/Ishayan06/Ishayan06/blob/main/github%20bg.jpg)
+![logo](https://drive.google.com/file/d/1DTOy0aPUaGEEK8SRabKIXpecvjw31o2E/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm ISHAYAN KUNDU</h1>
 <h3 align="left">I’m really comfortable with frontend development, and I love bringing designs to life with HTML, CSS, and JavaScript. But I’m super excited to dive into backend development and learn how the server side of things works. Coding has become a big passion of mine, and I’m always eager to expand my skills and take on new challenges. I’m looking forward to growing as a developer and getting a deeper understanding of how everything fits together behind the scenes.</h3>
 
